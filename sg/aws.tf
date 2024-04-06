@@ -1,4 +1,4 @@
 
-resource "null_resource" "this is a sg" {}
+resource "null_resource" "this_is_a_sg" {}
 
 ##2nd test
